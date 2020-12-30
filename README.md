@@ -2,6 +2,7 @@
 
 Blinky test on Blue Pill STM32F103
 
+![Blinky Blue Pill](https://i.imgur.com/9vPmKH5.gif)
 ## Setup
 
 1. Execute the following to install dependencies needed for compilation. ***ARM Cross-Compiler and Linker***.
